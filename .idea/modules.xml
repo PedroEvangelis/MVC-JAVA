@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/controleAluguel/classes/controleAluguel-classes.iml" filepath="$PROJECT_DIR$/controleAluguel/classes/controleAluguel-classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/controleAluguel/mvc/controleAluguel-mvc.iml" filepath="$PROJECT_DIR$/controleAluguel/mvc/controleAluguel-mvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/controleBiblioteca/classes/controleBiblioteca-classes.iml" filepath="$PROJECT_DIR$/controleBiblioteca/classes/controleBiblioteca-classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/controleBiblioteca/mvc/controleBiblioteca-mvc.iml" filepath="$PROJECT_DIR$/controleBiblioteca/mvc/controleBiblioteca-mvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/controleLanchonete/classes/controleLanchonete-classes.iml" filepath="$PROJECT_DIR$/controleLanchonete/classes/controleLanchonete-classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/controleLanchonete/mvc/controleLanchonete-mvc.iml" filepath="$PROJECT_DIR$/controleLanchonete/mvc/controleLanchonete-mvc.iml" />
+    </modules>
+  </component>
+</project>
