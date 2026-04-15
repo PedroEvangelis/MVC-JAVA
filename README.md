@@ -1,6 +1,6 @@
 # MVC Java - Exercícios Acadêmicos
 
-Projeto desenvolvido para o terceiro período do curso de Ciência da Computação.
+Projeto desenvolvido para o terceiro período do curso de ADS.
 
 ## Objetivo
 
